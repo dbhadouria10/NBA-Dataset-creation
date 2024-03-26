@@ -1,0 +1,770 @@
+team,player_name,points_per_game,three_pointers,pts_off_turnovers
+Boston Celtics,Matt Ryan,3.0,1.0,0.0
+Boston Celtics,Payton Pritchard,6.2,1.42,1.06
+Boston Celtics,Justin Jackson,2.0,0.0,0.0
+Boston Celtics,Joe Johnson,2.0,0.0,0.0
+Boston Celtics,Nik Stauskas,1.2,0.33,0.5
+Boston Celtics,Bruno Fernando,1.0,0.05,0.2
+Boston Celtics,Al-Farouq Aminu,0.0,0.0,0.0
+Boston Celtics,Grant Williams,7.8,1.38,1.1
+Boston Celtics,Enes Freedom,3.7,0.06,0.4
+Boston Celtics,Bol Bol,0.0,0.0,0.0
+Boston Celtics,Brodric Thomas,1.8,0.17,0.17
+Boston Celtics,C.J. Miles,0.0,0.0,0.0
+Boston Celtics,Aaron Nesmith,3.8,0.6,0.6
+Boston Celtics,Jayson Tatum,26.9,3.03,3.64
+Boston Celtics,Derrick White,11.0,1.31,1.08
+Boston Celtics,Dennis Schroder,14.4,1.37,2.47
+Boston Celtics,Malik Fitts,1.9,0.38,0.0
+Boston Celtics,Marcus Smart,12.1,1.68,1.68
+Boston Celtics,Juwan Morgan,0.0,0.0,0.0
+Boston Celtics,Juancho Hernangomez,1.1,0.17,0.22
+Boston Celtics,Robert Williams III,10.0,0.0,1.66
+Boston Celtics,Al Horford,10.2,1.29,1.52
+Boston Celtics,Romeo Langford,4.7,0.66,0.59
+Boston Celtics,Daniel Theis,7.9,0.48,1.19
+Boston Celtics,Norvel Pelle,0.0,0.0,0.0
+Boston Celtics,Jabari Parker,4.4,0.67,0.42
+Boston Celtics,PJ Dozier,0.0,0.0,0.0
+Boston Celtics,Kelan Martin,0.0,0.0,0.0
+Boston Celtics,Josh Richardson,9.7,1.41,1.8
+Boston Celtics,Sam Hauser,2.5,0.73,0.23
+Boston Celtics,Luke Kornet,2.2,0.0,0.0
+Boston Celtics,Jaylen Brown,23.6,2.52,3.44
+Philadelphia 76ers,DeAndre Jordan,4.6,0.0,0.63
+Philadelphia 76ers,Seth Curry,15.0,2.22,1.8
+Philadelphia 76ers,Aaron Henry,0.3,0.0,0.0
+Philadelphia 76ers,Willie Cauley-Stein,0.0,0.0,0.0
+Philadelphia 76ers,Ben Simmons,0.0,0.0,0.0
+Philadelphia 76ers,Isaiah Joe,3.6,0.82,0.58
+Philadelphia 76ers,Andre Drummond,6.1,0.0,1.08
+Philadelphia 76ers,Danny Green,5.9,1.66,0.79
+Philadelphia 76ers,Shake Milton,8.2,0.78,1.4
+Philadelphia 76ers,Paul Millsap,3.7,0.22,1.0
+Philadelphia 76ers,Tyrese Maxey,17.5,1.76,3.29
+Philadelphia 76ers,Tobias Harris,17.2,1.38,2.01
+Philadelphia 76ers,Tyler Johnson,3.7,1.0,0.0
+Philadelphia 76ers,Matisse Thybulle,5.7,0.68,1.21
+Philadelphia 76ers,Myles Powell,1.2,0.09,0.18
+Philadelphia 76ers,Jaden Springer,1.0,0.0,0.0
+Philadelphia 76ers,James Harden,21.0,2.19,2.81
+Philadelphia 76ers,Joel Embiid,30.6,1.37,3.75
+Philadelphia 76ers,Braxton Key,1.0,0.0,0.0
+Philadelphia 76ers,Charlie Brown Jr.,1.5,0.05,0.37
+Philadelphia 76ers,Paul Reed,3.1,0.05,0.58
+Philadelphia 76ers,Grant Riller,0.0,0.0,0.0
+Philadelphia 76ers,Furkan Korkmaz,7.6,1.15,1.16
+Philadelphia 76ers,Charles Bassey,3.0,0.0,0.09
+Philadelphia 76ers,Georges Niang,9.2,2.05,1.07
+Toronto Raptors,Khem Birch,4.5,0.0,0.87
+Toronto Raptors,Scottie Barnes,15.3,0.78,2.43
+Toronto Raptors,Malachi Flynn,4.3,0.68,0.59
+Toronto Raptors,Isaac Bonga,0.8,0.07,0.2
+Toronto Raptors,Thaddeus Young,6.3,0.65,0.88
+Toronto Raptors,Precious Achiuwa,9.1,0.77,1.73
+Toronto Raptors,Pascal Siakam,22.8,1.1,4.28
+Toronto Raptors,Fred VanVleet,20.3,3.72,2.62
+Toronto Raptors,Daniel Oturu,3.0,0.0,0.67
+Toronto Raptors,Gary Trent Jr.,18.3,2.99,3.63
+Toronto Raptors,Dalano Banton,3.2,0.2,0.56
+Toronto Raptors,Justin Champagnie,2.3,0.28,0.5
+Toronto Raptors,Sam Dekker,0.0,0.0,0.0
+Toronto Raptors,Svi Mykhailiuk,4.6,0.73,1.02
+Toronto Raptors,D.J. Wilson,7.5,0.0,2.0
+Toronto Raptors,OG Anunoby,17.1,2.4,3.75
+Toronto Raptors,Juwan Morgan,5.0,1.0,0.0
+Toronto Raptors,David Johnson,0.0,0.0,0.0
+Toronto Raptors,Yuta Watanabe,4.3,0.71,0.58
+Toronto Raptors,Tremont Waters,4.0,1.0,0.0
+Toronto Raptors,Armoni Brooks,2.6,0.77,0.15
+Toronto Raptors,Chris Boucher,9.4,0.85,1.39
+Toronto Raptors,Goran Dragic,8.0,0.8,1.0
+Brooklyn Nets,Seth Curry,14.9,3.05,3.0
+Brooklyn Nets,Langston Galloway,3.0,0.5,1.0
+Brooklyn Nets,Blake Griffin,6.4,0.68,1.07
+Brooklyn Nets,Day'Ron Sharpe,6.2,0.06,0.97
+Brooklyn Nets,James Johnson,5.5,0.37,0.65
+Brooklyn Nets,Nic Claxton,8.7,0.0,1.38
+Brooklyn Nets,Wenyen Gabriel,0.0,0.0,0.0
+Brooklyn Nets,David Duke Jr.,4.7,0.41,0.82
+Brooklyn Nets,LaMarcus Aldridge,12.9,0.3,1.28
+Brooklyn Nets,Ben Simmons,0.0,0.0,0.0
+Brooklyn Nets,Andre Drummond,11.8,0.0,1.38
+Brooklyn Nets,James Ennis III,2.5,0.5,0.0
+Brooklyn Nets,Kevin Durant,29.9,2.09,3.6
+Brooklyn Nets,Paul Millsap,3.4,0.25,0.33
+Brooklyn Nets,Shaquille Harrison,2.0,0.0,1.0
+Brooklyn Nets,Joe Harris,11.3,2.93,1.36
+Brooklyn Nets,Jevon Carter,3.6,0.91,0.63
+Brooklyn Nets,Patty Mills,11.4,2.8,1.37
+Brooklyn Nets,James Harden,22.5,2.32,3.07
+Brooklyn Nets,Kessler Edwards,5.9,1.0,0.85
+Brooklyn Nets,Cam Thomas,8.5,0.7,1.15
+Brooklyn Nets,DeAndre' Bembry,5.8,0.31,1.38
+Brooklyn Nets,Kyrie Irving,27.4,3.45,3.1
+Brooklyn Nets,Bruce Brown,9.0,0.53,1.67
+Brooklyn Nets,Goran Dragic,7.3,0.75,1.31
+New York Knicks,Danuel House Jr.,0.0,0.0,0.0
+New York Knicks,Nerlens Noel,3.4,0.0,0.96
+New York Knicks,Damyean Dotson,2.0,0.0,1.0
+New York Knicks,Kevin Knox II,3.6,0.77,0.38
+New York Knicks,Julius Randle,20.1,1.67,3.01
+New York Knicks,Miles McBride,2.2,0.43,0.53
+New York Knicks,RJ Barrett,20.0,1.97,2.83
+New York Knicks,Derrick Rose,12.0,1.42,1.35
+New York Knicks,Jericho Sims,2.2,0.0,0.61
+New York Knicks,Luka Samanic,0.0,0.0,0.0
+New York Knicks,Alec Burks,11.7,1.94,1.74
+New York Knicks,Ryan Arcidiacono,1.6,0.4,0.0
+New York Knicks,Cam Reddish,6.1,0.53,1.27
+New York Knicks,Feron Hunt,0.0,0.0,0.0
+New York Knicks,Mitchell Robinson,8.5,0.0,1.1
+New York Knicks,Taj Gibson,4.4,0.29,0.56
+New York Knicks,Matt Mooney,0.0,0.0,0.0
+New York Knicks,Kemba Walker,11.6,1.97,1.38
+New York Knicks,Tyler Hall,0.0,0.0,0.0
+New York Knicks,Wayne Selden Jr.,1.7,0.33,0.33
+New York Knicks,Evan Fournier,14.1,3.01,1.65
+New York Knicks,Immanuel Quickley,11.3,1.76,1.51
+New York Knicks,Solomon Hill,0.0,0.0,0.0
+New York Knicks,Quentin Grimes,6.0,1.57,1.39
+New York Knicks,Obi Toppin,9.0,0.72,1.71
+Milwaukee Bucks,Serge Ibaka,7.0,0.68,0.37
+Milwaukee Bucks,Langston Galloway,0.7,0.0,0.0
+Milwaukee Bucks,Justin Robinson,2.8,0.59,0.47
+Milwaukee Bucks,Lindell Wigginton,4.2,0.47,0.32
+Milwaukee Bucks,Pat Connaughton,9.9,2.25,1.4
+Milwaukee Bucks,Jeff Dowtin Jr.,0.0,0.0,0.0
+Milwaukee Bucks,Javonte Smart,2.4,0.31,0.85
+Milwaukee Bucks,Khris Middleton,20.1,2.45,1.86
+Milwaukee Bucks,Javin DeLaurier,0.0,0.0,0.0
+Milwaukee Bucks,Thanasis Antetokounmpo,3.6,0.04,0.46
+Milwaukee Bucks,Jrue Holiday,18.3,1.97,2.31
+Milwaukee Bucks,Bobby Portis,14.6,1.85,1.96
+Milwaukee Bucks,Giannis Antetokounmpo,29.9,1.06,3.96
+Milwaukee Bucks,George Hill,6.2,0.76,1.15
+Milwaukee Bucks,Greg Monroe,5.4,0.0,1.6
+Milwaukee Bucks,Georgios Kalaitzakis,1.8,0.22,0.0
+Milwaukee Bucks,Wesley Matthews,5.1,1.08,0.49
+Milwaukee Bucks,Jevon Carter,5.6,1.2,0.6
+Milwaukee Bucks,Luca Vildoza,0.0,0.0,0.0
+Milwaukee Bucks,Rayjon Tucker,7.5,1.5,0.0
+Milwaukee Bucks,Donte DiVincenzo,7.2,1.24,0.94
+Milwaukee Bucks,Brook Lopez,12.4,1.46,1.54
+Milwaukee Bucks,Jordan Nwora,7.9,1.27,1.58
+Milwaukee Bucks,Sandro Mamukelashvili,3.8,0.54,0.32
+Milwaukee Bucks,DeMarcus Cousins,9.1,0.76,0.76
+Milwaukee Bucks,Rodney Hood,3.3,0.62,0.36
+Milwaukee Bucks,DeAndre' Bembry,0.8,0.0,0.0
+Milwaukee Bucks,Semi Ojeleye,2.9,0.55,0.35
+Milwaukee Bucks,Luke Kornet,0.0,0.0,0.0
+Milwaukee Bucks,Grayson Allen,11.1,2.41,1.86
+Chicago Bulls,Lonzo Ball,13.0,3.14,1.91
+Chicago Bulls,Jordan Bell,0.0,0.0,0.0
+Chicago Bulls,Matt Thomas,4.0,0.88,0.48
+Chicago Bulls,Alize Johnson,1.8,0.0,0.38
+Chicago Bulls,Javonte Green,7.2,0.55,1.32
+Chicago Bulls,Tyler Cook,3.4,0.0,0.15
+Chicago Bulls,Tristan Thompson,5.7,0.0,0.57
+Chicago Bulls,Troy Brown Jr.,4.3,0.71,0.61
+Chicago Bulls,Derrick Jones Jr.,5.6,0.39,0.78
+Chicago Bulls,DeMar DeRozan,27.9,0.66,3.47
+Chicago Bulls,Tony Bradley,3.0,0.0,0.47
+Chicago Bulls,Patrick Williams,9.0,0.88,0.35
+Chicago Bulls,Stanley Johnson,0.0,0.0,0.0
+Chicago Bulls,Nikola Vucevic,17.6,1.42,2.11
+Chicago Bulls,Malcolm Hill,3.4,0.63,0.31
+Chicago Bulls,Alex Caruso,7.4,1.02,1.56
+Chicago Bulls,Devon Dotson,2.6,0.18,0.55
+Chicago Bulls,Coby White,12.7,2.23,1.8
+Chicago Bulls,Ersan Ilyasova,0.0,0.0,0.0
+Chicago Bulls,Marko Simonovic,1.9,0.11,0.44
+Chicago Bulls,Alfonzo McKinnie,3.5,0.53,0.76
+Chicago Bulls,Zach LaVine,24.4,2.76,4.19
+Chicago Bulls,Mac McClung,2.0,0.0,0.0
+Chicago Bulls,Ayo Dosunmu,8.8,0.91,1.84
+Cleveland Cavaliers,Tim Frazier,1.0,0.0,0.0
+Cleveland Cavaliers,Denzel Valentine,2.9,0.82,0.45
+Cleveland Cavaliers,Lamar Stevens,6.1,0.29,0.98
+Cleveland Cavaliers,Justin Anderson,4.3,0.67,1.67
+Cleveland Cavaliers,RJ Nembhard Jr.,1.1,0.0,0.0
+Cleveland Cavaliers,Tacko Fall,1.1,0.0,0.09
+Cleveland Cavaliers,Moses Brown,6.4,0.0,0.64
+Cleveland Cavaliers,Kevin Pangos,1.6,0.25,0.17
+Cleveland Cavaliers,Lauri Markkanen,14.8,2.23,2.48
+Cleveland Cavaliers,Kevin Love,13.6,2.53,1.91
+Cleveland Cavaliers,Collin Sexton,16.0,1.0,2.91
+Cleveland Cavaliers,Tre Scott,3.0,0.0,1.0
+Cleveland Cavaliers,Dylan Windler,2.2,0.42,0.3
+Cleveland Cavaliers,Rajon Rondo,6.2,1.1,0.38
+Cleveland Cavaliers,Ed Davis,0.9,0.0,0.13
+Cleveland Cavaliers,Ricky Rubio,13.1,1.74,1.88
+Cleveland Cavaliers,Jarrett Allen,16.1,0.02,2.27
+Cleveland Cavaliers,Brandon Goodwin,4.8,0.53,0.42
+Cleveland Cavaliers,Darius Garland,21.7,2.56,3.06
+Cleveland Cavaliers,Dean Wade,5.3,1.0,0.84
+Cleveland Cavaliers,Caris LeVert,13.6,1.11,2.26
+Cleveland Cavaliers,Isaac Okoro,8.8,0.82,1.64
+Cleveland Cavaliers,Evan Mobley,15.0,0.33,1.91
+Cleveland Cavaliers,Malik Newman,8.0,0.0,0.0
+Cleveland Cavaliers,Cedi Osman,10.7,1.94,1.73
+Cleveland Cavaliers,Luke Kornet,2.0,0.0,1.5
+Indiana Pacers,Lance Stephenson,9.3,0.68,1.45
+Indiana Pacers,Justin Holiday,11.0,2.59,1.53
+Indiana Pacers,Isaiah Jackson,8.3,0.14,0.86
+Indiana Pacers,Duane Washington Jr.,9.9,1.69,0.92
+Indiana Pacers,Goga Bitadze,7.0,0.46,0.92
+Indiana Pacers,Justin Anderson,6.8,1.0,0.69
+Indiana Pacers,Chris Duarte,13.1,1.71,2.04
+Indiana Pacers,Domantas Sabonis,18.9,0.74,1.83
+Indiana Pacers,Tyrese Haliburton,17.5,2.19,2.27
+Indiana Pacers,Gabe York,4.0,0.5,2.0
+Indiana Pacers,T.J. Warren,0.0,0.0,0.0
+Indiana Pacers,DeJon Jarreau,0.0,0.0,0.0
+Indiana Pacers,Myles Turner,12.9,1.45,1.36
+Indiana Pacers,Tristan Thompson,7.3,0.0,0.75
+Indiana Pacers,Oshae Brissett,9.1,1.24,1.21
+Indiana Pacers,Brad Wanamaker,3.5,0.18,0.68
+Indiana Pacers,Keifer Sykes,5.6,0.84,1.38
+Indiana Pacers,Jalen Smith,13.4,1.41,1.68
+Indiana Pacers,Buddy Hield,18.2,3.08,3.04
+Indiana Pacers,Terry Taylor,9.6,0.36,1.3
+Indiana Pacers,Jeremy Lamb,7.1,1.0,0.9
+Indiana Pacers,Nate Hinton,0.0,0.0,0.0
+Indiana Pacers,Ricky Rubio,0.0,0.0,0.0
+Indiana Pacers,Reggie Perry,2.0,0.0,0.0
+Indiana Pacers,Ahmad Caver,2.0,0.0,2.0
+Indiana Pacers,Torrey Craig,6.5,0.9,1.0
+Indiana Pacers,Caris LeVert,18.7,1.56,2.54
+Indiana Pacers,T.J. McConnell,8.5,0.37,1.22
+Indiana Pacers,Kelan Martin,6.3,0.81,0.63
+Indiana Pacers,Malcolm Brogdon,19.1,1.61,1.97
+Detroit Pistons,Josh Jackson,7.1,0.77,1.1
+Detroit Pistons,Micah Potter,4.0,0.0,0.0
+Detroit Pistons,Justin Robinson,5.6,1.6,1.4
+Detroit Pistons,Saben Lee,5.6,0.38,1.22
+Detroit Pistons,Jaysean Paige,0.0,0.0,0.0
+Detroit Pistons,Hamidou Diallo,11.0,0.4,2.64
+Detroit Pistons,Trey Lyles,10.4,0.86,1.71
+Detroit Pistons,Cory Joseph,8.0,1.0,1.29
+Detroit Pistons,Cade Cunningham,17.4,1.78,2.53
+Detroit Pistons,Jerami Grant,19.2,1.94,2.62
+Detroit Pistons,Jamorko Pickett,3.8,1.0,0.23
+Detroit Pistons,Chris Smith,0.0,0.0,0.0
+Detroit Pistons,Cheick Diallo,3.7,0.0,1.33
+Detroit Pistons,Cassius Stanley,5.8,0.44,0.89
+Detroit Pistons,Trayvon Palmer,0.0,0.0,0.0
+Detroit Pistons,Frank Jackson,10.6,1.62,1.72
+Detroit Pistons,Luka Garza,5.8,0.5,0.97
+Detroit Pistons,Kelly Olynyk,9.1,1.0,1.8
+Detroit Pistons,Isaiah Stewart,8.3,0.21,0.89
+Detroit Pistons,Derrick Walton Jr.,6.3,1.0,2.33
+Detroit Pistons,Deividas Sirvydis,1.0,0.33,0.0
+Detroit Pistons,Rodney McGruder,5.4,1.14,0.82
+Detroit Pistons,Killian Hayes,6.9,0.67,1.33
+Detroit Pistons,Braxton Key,8.6,0.67,1.22
+Detroit Pistons,Isaiah Livers,6.4,1.42,1.16
+Detroit Pistons,Carsen Edwards,5.8,1.0,0.75
+Detroit Pistons,Saddiq Bey,16.1,2.57,2.33
+Detroit Pistons,Marvin Bagley III,14.6,0.44,2.61
+Miami Heat,Jimmy Butler,21.4,0.47,3.42
+Miami Heat,Bam Adebayo,19.1,0.0,2.96
+Miami Heat,Duncan Robinson,10.9,2.94,1.48
+Miami Heat,Gabe Vincent,8.7,1.75,1.49
+Miami Heat,Markieff Morris,7.6,0.76,1.06
+Miami Heat,Nik Stauskas,5.5,1.0,1.0
+Miami Heat,Javonte Smart,5.0,1.0,0.0
+Miami Heat,Caleb Martin,9.2,1.07,2.0
+Miami Heat,Omer Yurtseven,5.3,0.02,0.66
+Miami Heat,KZ Okpala,3.7,0.43,0.52
+Miami Heat,Tyler Herro,20.7,2.65,3.41
+Miami Heat,Kyle Lowry,13.4,2.29,2.1
+Miami Heat,Haywood Highsmith,2.3,0.47,0.0
+Miami Heat,Victor Oladipo,12.4,1.88,1.88
+Miami Heat,Mario Chalmers,0.0,0.0,0.0
+Miami Heat,Dewayne Dedmon,6.3,0.28,0.7
+Miami Heat,Chris Silva,2.9,0.0,0.67
+Miami Heat,Kyle Guy,3.9,0.74,0.63
+Miami Heat,P.J. Tucker,7.6,1.13,1.21
+Miami Heat,Aric Holman,0.0,0.0,0.0
+Miami Heat,Mychal Mulder,7.0,2.0,1.0
+Miami Heat,Udonis Haslem,2.5,0.08,0.31
+Miami Heat,Marcus Garrett,1.1,0.08,0.5
+Miami Heat,Zylan Cheatham,0.0,0.0,0.0
+Miami Heat,Max Strus,10.6,2.66,1.6
+Atlanta Hawks,Lance Stephenson,1.8,0.0,0.33
+Atlanta Hawks,Chris Clemons,0.0,0.0,0.0
+Atlanta Hawks,Timothe Luwawu-Cabarrot,4.4,0.85,0.83
+Atlanta Hawks,Wes Iwundu,7.3,1.0,1.67
+Atlanta Hawks,Delon Wright,4.4,0.57,0.94
+Atlanta Hawks,Anthony Barber,0.0,0.0,0.0
+Atlanta Hawks,Kevin Knox II,2.7,0.29,0.71
+Atlanta Hawks,Lou Williams,6.3,0.66,0.46
+Atlanta Hawks,John Collins,16.2,1.19,2.04
+Atlanta Hawks,Danilo Gallinari,11.7,1.7,1.27
+Atlanta Hawks,Sharife Cooper,0.5,0.08,0.15
+Atlanta Hawks,Onyeka Okongwu,8.2,0.0,0.96
+Atlanta Hawks,Malcolm Hill,5.7,1.0,1.33
+Atlanta Hawks,Kevin Huerter,12.1,2.16,1.91
+Atlanta Hawks,Cam Reddish,11.9,1.71,1.41
+Atlanta Hawks,Skylar Mays,2.9,0.29,0.25
+Atlanta Hawks,Justin Tillman,0.0,0.0,0.0
+Atlanta Hawks,De'Andre Hunter,13.4,1.4,2.0
+Atlanta Hawks,Bogdan Bogdanovic,15.1,2.68,2.56
+Atlanta Hawks,Clint Capela,11.1,0.0,1.07
+Atlanta Hawks,Chaundee Brown Jr.,9.7,2.0,1.0
+Atlanta Hawks,Trae Young,28.4,3.07,3.96
+Atlanta Hawks,Jalen Johnson,2.4,0.14,0.5
+Atlanta Hawks,Malik Ellison,0.0,0.0,0.0
+Atlanta Hawks,Solomon Hill,0.6,0.15,0.0
+Atlanta Hawks,Cameron Oliver,11.5,0.5,1.5
+Atlanta Hawks,Gorgui Dieng,3.5,0.66,0.25
+Charlotte Hornets,Ish Smith,4.5,0.27,0.43
+Charlotte Hornets,Kai Jones,1.0,0.05,0.19
+Charlotte Hornets,Jalen McDaniels,6.2,0.75,0.87
+Charlotte Hornets,Vernon Carey Jr.,2.0,0.0,0.0
+Charlotte Hornets,JT Thor,2.0,0.21,0.24
+Charlotte Hornets,James Bouknight,4.6,0.55,0.65
+Charlotte Hornets,P.J. Washington,10.3,1.69,1.62
+Charlotte Hornets,Cody Martin,7.7,0.86,1.63
+Charlotte Hornets,Scottie Lewis,0.5,0.0,0.0
+Charlotte Hornets,Kelly Oubre Jr.,15.0,2.51,2.96
+Charlotte Hornets,Montrezl Harrell,11.4,0.0,1.72
+Charlotte Hornets,Mason Plumlee,6.5,0.0,1.0
+Charlotte Hornets,Arnoldas Kulboka,0.0,0.0,0.0
+Charlotte Hornets,Nick Richards,3.0,0.0,0.38
+Charlotte Hornets,Gordon Hayward,15.9,1.76,2.57
+Charlotte Hornets,Miles Bridges,20.2,1.93,2.91
+Charlotte Hornets,Isaiah Thomas,8.3,1.35,1.24
+Charlotte Hornets,LaMelo Ball,20.1,2.93,3.2
+Charlotte Hornets,Terry Rozier,19.3,3.04,3.04
+Washington Wizards,Thomas Bryant,7.4,0.44,0.7
+Washington Wizards,Ish Smith,8.6,0.54,1.46
+Washington Wizards,Jordan Goodwin,0.0,0.0,0.0
+Washington Wizards,Jaime Echenique,0.0,0.0,0.0
+Washington Wizards,Alize Johnson,1.3,0.0,0.0
+Washington Wizards,Deni Avdija,8.4,1.0,1.12
+Washington Wizards,Corey Kispert,8.2,1.45,1.21
+Washington Wizards,Brad Wanamaker,7.0,0.0,0.0
+Washington Wizards,Kristaps Porzingis,22.1,1.71,2.41
+Washington Wizards,Vernon Carey Jr.,4.0,0.0,1.33
+Washington Wizards,Kyle Kuzma,17.1,1.94,1.86
+Washington Wizards,Daniel Gafford,9.4,0.0,1.18
+Washington Wizards,Joel Ayayi,0.3,0.0,0.0
+Washington Wizards,Rui Hachimura,11.3,1.31,1.38
+Washington Wizards,Greg Monroe,4.0,0.0,2.0
+Washington Wizards,Anthony Gill,4.1,0.32,0.57
+Washington Wizards,Spencer Dinwiddie,12.6,1.59,1.16
+Washington Wizards,Montrezl Harrell,14.1,0.09,1.54
+Washington Wizards,Aaron Holiday,6.1,0.56,0.85
+Washington Wizards,Raul Neto,7.5,0.5,1.16
+Washington Wizards,Craig Sword,2.0,0.0,0.67
+Washington Wizards,Tomas Satoransky,4.9,0.27,0.41
+Washington Wizards,Davis Bertans,5.7,1.35,0.82
+Washington Wizards,Tremont Waters,2.0,0.0,2.0
+Washington Wizards,Kentavious Caldwell-Pope,13.2,2.06,2.12
+Washington Wizards,Isaiah Todd,1.7,0.33,0.33
+Washington Wizards,Cassius Winston,2.0,0.29,0.0
+Washington Wizards,Jordan Schakel,1.3,0.25,0.0
+Washington Wizards,Bradley Beal,23.2,1.58,3.0
+Orlando Magic,Tim Frazier,3.7,0.6,0.7
+Orlando Magic,Aleem Ford,2.8,0.4,0.4
+Orlando Magic,Ignas Brazdeikis,5.0,0.64,0.6
+Orlando Magic,Michael Carter-Williams,0.0,0.0,0.0
+Orlando Magic,Jeff Dowtin Jr.,3.3,0.25,1.5
+Orlando Magic,R.J. Hampton,7.6,1.0,1.14
+Orlando Magic,Markelle Fultz,10.8,0.22,2.17
+Orlando Magic,Hassani Gravett,6.3,1.38,1.38
+Orlando Magic,Franz Wagner,15.2,1.22,2.06
+Orlando Magic,E'Twaun Moore,0.0,0.0,0.0
+Orlando Magic,Bol Bol,0.0,0.0,0.0
+Orlando Magic,Gary Harris,11.1,1.9,1.97
+Orlando Magic,Jalen Suggs,11.8,0.88,1.9
+Orlando Magic,Wendell Carter Jr.,15.0,1.13,1.89
+Orlando Magic,Jonathan Isaac,0.0,0.0,0.0
+Orlando Magic,Mo Bamba,10.6,1.51,1.14
+Orlando Magic,Cole Anthony,16.3,2.03,1.66
+Orlando Magic,Terrence Ross,10.0,1.22,1.37
+Orlando Magic,B.J. Johnson,6.5,1.0,0.0
+Orlando Magic,Admiral Schofield,3.8,0.68,0.53
+Orlando Magic,Devin Cannady,10.0,3.0,1.8
+Orlando Magic,Freddie Gillespie,2.3,0.0,0.33
+Orlando Magic,Robin Lopez,7.1,0.06,0.56
+Orlando Magic,Mychal Mulder,3.7,0.87,1.0
+Orlando Magic,Moritz Wagner,9.0,1.05,1.27
+Orlando Magic,Chuma Okeke,8.6,1.69,1.24
+Utah Jazz,Denzel Valentine,2.5,0.5,0.0
+Utah Jazz,Jordan Clarkson,16.0,2.41,1.99
+Utah Jazz,Elijah Hughes,3.1,0.71,0.36
+Utah Jazz,Jared Butler,3.8,0.67,0.62
+Utah Jazz,Danuel House Jr.,6.8,1.36,1.52
+Utah Jazz,Xavier Sneed,0.7,0.14,0.0
+Utah Jazz,Royce O'Neale,7.4,1.55,1.36
+Utah Jazz,Rudy Gobert,15.6,0.0,1.86
+Utah Jazz,Hassan Whiteside,8.2,0.0,0.85
+Utah Jazz,Mike Conley,13.7,2.35,1.75
+Utah Jazz,Udoka Azubuike,4.7,0.0,0.35
+Utah Jazz,Joe Ingles,7.2,1.73,0.87
+Utah Jazz,Greg Monroe,4.0,0.0,0.67
+Utah Jazz,Rudy Gay,8.1,1.27,1.09
+Utah Jazz,Eric Paschall,5.8,0.69,0.52
+Utah Jazz,Bojan Bogdanovic,18.1,2.62,2.52
+Utah Jazz,Malik Fitts,0.9,0.29,0.43
+Utah Jazz,Donovan Mitchell,25.9,3.46,3.15
+Utah Jazz,Juancho Hernangomez,6.2,1.24,0.71
+Utah Jazz,Trent Forrest,3.3,0.08,0.42
+Utah Jazz,Nickeil Alexander-Walker,3.5,0.67,0.33
+Utah Jazz,Norvel Pelle,2.0,0.0,0.0
+Utah Jazz,Miye Oni,0.3,0.06,0.13
+Utah Jazz,Zylan Cheatham,0.0,0.0,0.0
+Denver Nuggets,Aaron Gordon,15.0,1.16,2.28
+Denver Nuggets,JaMychal Green,6.4,0.49,1.4
+Denver Nuggets,Austin Rivers,6.0,1.18,0.69
+Denver Nuggets,Michael Porter Jr.,9.9,1.11,2.0
+Denver Nuggets,Davon Reed,4.4,0.77,0.65
+Denver Nuggets,Monte Morris,12.6,1.65,1.75
+Denver Nuggets,James Ennis III,1.3,0.0,0.0
+Denver Nuggets,Facundo Campazzo,5.1,0.89,0.98
+Denver Nuggets,Zeke Nnaji,6.6,0.9,1.27
+Denver Nuggets,Bol Bol,2.4,0.07,0.64
+Denver Nuggets,Jamal Murray,0.0,0.0,0.0
+Denver Nuggets,Carlik Jones,1.0,0.0,0.0
+Denver Nuggets,Bones Hyland,10.1,1.9,1.42
+Denver Nuggets,Markus Howard,4.1,0.9,0.9
+Denver Nuggets,Rayjon Tucker,2.0,0.33,0.0
+Denver Nuggets,Will Barton,14.7,2.21,1.75
+Denver Nuggets,Vlatko Cancar,4.1,0.47,0.6
+Denver Nuggets,Jeff Green,10.3,0.71,1.37
+Denver Nuggets,Rodney McGruder,0.0,0.0,0.0
+Denver Nuggets,Bryn Forbes,8.6,1.69,0.91
+Denver Nuggets,DeMarcus Cousins,8.9,0.77,0.81
+Denver Nuggets,PJ Dozier,5.4,0.83,0.56
+Denver Nuggets,Petr Cornelie,1.1,0.08,0.31
+Denver Nuggets,Nikola Jokic,27.1,1.31,3.01
+Minnesota Timberwolves,Jarred Vanderbilt,6.9,0.03,1.65
+Minnesota Timberwolves,Josh Okogie,2.7,0.29,0.67
+Minnesota Timberwolves,McKinley Wright IV,1.0,0.2,0.0
+Minnesota Timberwolves,Taurean Prince,7.3,1.25,1.52
+Minnesota Timberwolves,Nathan Knight,3.7,0.11,0.38
+Minnesota Timberwolves,Jaylen Nowell,8.5,1.02,1.39
+Minnesota Timberwolves,Greg Monroe,7.3,0.0,0.5
+Minnesota Timberwolves,Naz Reid,8.3,0.74,1.18
+Minnesota Timberwolves,Rayjon Tucker,0.0,0.0,0.0
+Minnesota Timberwolves,Patrick Beverley,9.2,1.43,1.48
+Minnesota Timberwolves,Leandro Bolmaro,1.4,0.14,0.11
+Minnesota Timberwolves,Jaden McDaniels,9.2,1.14,1.74
+Minnesota Timberwolves,Karl-Anthony Towns,24.6,2.03,3.43
+Minnesota Timberwolves,Jordan McLaughlin,3.8,0.44,0.76
+Minnesota Timberwolves,Chris Silva,0.0,0.0,0.0
+Minnesota Timberwolves,Jake Layman,2.4,0.24,0.35
+Minnesota Timberwolves,Anthony Edwards,21.3,2.99,4.25
+Minnesota Timberwolves,Malik Beasley,12.1,3.04,2.22
+Minnesota Timberwolves,D'Angelo Russell,18.1,2.71,2.52
+Portland Trail Blazers,Greg Brown III,4.7,0.4,0.85
+Portland Trail Blazers,Elijah Hughes,3.8,0.68,0.91
+Portland Trail Blazers,Justise Winslow,10.7,0.91,1.91
+Portland Trail Blazers,Drew Eubanks,14.5,0.18,1.55
+Portland Trail Blazers,Jarron Cumberland,0.7,0.0,0.67
+Portland Trail Blazers,Tony Snell,2.6,0.63,0.29
+Portland Trail Blazers,Ben McLemore,10.2,2.36,2.13
+Portland Trail Blazers,Robert Covington,7.6,1.65,1.06
+Portland Trail Blazers,Keon Johnson,9.7,1.41,1.32
+Portland Trail Blazers,Damian Lillard,24.0,3.17,2.76
+Portland Trail Blazers,Kris Dunn,7.6,0.07,1.5
+Portland Trail Blazers,Joe Ingles,0.0,0.0,0.0
+Portland Trail Blazers,Anfernee Simons,17.3,3.14,2.44
+Portland Trail Blazers,Nassir Little,9.8,1.21,2.24
+Portland Trail Blazers,Didi Louzada,5.0,1.29,2.14
+Portland Trail Blazers,Dennis Smith Jr.,5.6,0.16,0.76
+Portland Trail Blazers,Eric Bledsoe,0.0,0.0,0.0
+Portland Trail Blazers,Trendon Watford,7.6,0.19,1.17
+Portland Trail Blazers,Tomas Satoransky,0.0,0.0,0.0
+Portland Trail Blazers,Jusuf Nurkic,15.0,0.27,1.73
+Portland Trail Blazers,Larry Nance Jr.,6.9,0.51,1.14
+Portland Trail Blazers,Reggie Perry,10.0,0.33,2.56
+Portland Trail Blazers,CJ McCollum,20.5,3.08,2.44
+Portland Trail Blazers,Brandon Williams,12.9,1.29,1.92
+Portland Trail Blazers,Nickeil Alexander-Walker,0.0,0.0,0.0
+Portland Trail Blazers,Josh Hart,19.9,2.38,2.92
+Portland Trail Blazers,Cody Zeller,5.2,0.0,0.52
+Portland Trail Blazers,Norman Powell,18.7,2.33,3.58
+Portland Trail Blazers,Keljin Blevins,3.1,0.68,0.48
+Portland Trail Blazers,Cameron McGriff,4.7,0.67,0.0
+Portland Trail Blazers,CJ Elleby,5.8,0.64,1.31
+Oklahoma City Thunder,Ty Jerome,7.1,1.13,0.92
+Oklahoma City Thunder,Jaylen Hoard,14.7,1.29,1.43
+Oklahoma City Thunder,Aleksej Pokusevski,7.6,0.93,1.44
+Oklahoma City Thunder,Rob Edwards,1.5,0.5,0.0
+Oklahoma City Thunder,Melvin Frazier Jr.,10.7,0.33,0.0
+Oklahoma City Thunder,Luguentz Dort,17.2,2.55,2.2
+Oklahoma City Thunder,Tre Mann,10.4,1.63,1.63
+Oklahoma City Thunder,Darius Bazley,10.8,1.16,1.68
+Oklahoma City Thunder,Josh Giddey,12.5,1.04,1.61
+Oklahoma City Thunder,Jeremiah Robinson-Earl,7.5,1.18,1.06
+Oklahoma City Thunder,Georgios Kalaitzakis,17.5,2.0,3.5
+Oklahoma City Thunder,KZ Okpala,0.0,0.0,0.0
+Oklahoma City Thunder,Zavier Simpson,11.0,0.25,0.5
+Oklahoma City Thunder,Mike Muscala,8.0,1.63,0.86
+Oklahoma City Thunder,Lindy Waters III,8.0,2.12,1.96
+Oklahoma City Thunder,Theo Maledon,7.1,0.86,0.8
+Oklahoma City Thunder,Vit Krejci,6.2,1.07,1.07
+Oklahoma City Thunder,Kenrich Williams,7.4,0.84,1.45
+Oklahoma City Thunder,Gabriel Deck,2.6,0.29,0.57
+Oklahoma City Thunder,Derrick Favors,5.3,0.05,0.64
+Oklahoma City Thunder,Isaiah Roby,10.1,0.98,1.78
+Oklahoma City Thunder,Paul Watson Jr.,3.4,0.67,1.11
+Oklahoma City Thunder,Mamadi Diakite,4.3,0.0,0.46
+Oklahoma City Thunder,Aaron Wiggins,8.3,0.84,1.2
+Oklahoma City Thunder,Shai Gilgeous-Alexander,24.5,1.59,3.0
+Oklahoma City Thunder,Miye Oni,0.0,0.0,0.0
+Oklahoma City Thunder,Scotty Hopson,4.0,0.0,0.0
+Oklahoma City Thunder,Olivier Sarr,7.0,0.59,0.86
+Phoenix Suns,Emanuel Terry,0.0,0.0,0.0
+Phoenix Suns,Dario Saric,0.0,0.0,0.0
+Phoenix Suns,M.J. Walker,0.0,0.0,0.0
+Phoenix Suns,Paris Bass,3.0,0.0,1.0
+Phoenix Suns,Justin Jackson,2.2,0.5,1.0
+Phoenix Suns,Cameron Johnson,12.5,2.52,2.14
+Phoenix Suns,Devin Booker,26.8,2.69,4.68
+Phoenix Suns,JaVale McGee,9.2,0.03,1.03
+Phoenix Suns,Landry Shamet,8.3,1.78,1.54
+Phoenix Suns,Chandler Hutchison,0.7,0.0,0.0
+Phoenix Suns,Elfrid Payton,3.0,0.08,0.28
+Phoenix Suns,Jalen Smith,6.0,0.31,0.83
+Phoenix Suns,Gabriel Lundberg,3.3,0.75,0.5
+Phoenix Suns,Deandre Ayton,17.2,0.12,2.24
+Phoenix Suns,Ish Wainright,2.4,0.42,0.16
+Phoenix Suns,Mikal Bridges,14.2,1.4,3.02
+Phoenix Suns,Aaron Holiday,6.8,0.73,1.73
+Phoenix Suns,Bismack Biyombo,5.8,0.0,0.83
+Phoenix Suns,Chris Paul,14.7,0.97,1.72
+Phoenix Suns,Torrey Craig,6.9,1.15,1.19
+Phoenix Suns,Frank Kaminsky,10.6,0.56,1.67
+Phoenix Suns,Abdel Nader,2.4,0.29,0.29
+Phoenix Suns,Jae Crowder,9.4,1.9,1.54
+Phoenix Suns,Cameron Payne,10.8,1.22,1.34
+Golden State Warriors,Damion Lee,7.4,1.0,1.25
+Golden State Warriors,Jeff Dowtin Jr.,1.5,0.0,0.5
+Golden State Warriors,Jordan Poole,18.5,2.78,2.71
+Golden State Warriors,Klay Thompson,20.4,3.56,3.09
+Golden State Warriors,James Wiseman,0.0,0.0,0.0
+Golden State Warriors,Draymond Green,7.5,0.35,1.35
+Golden State Warriors,Andrew Wiggins,17.2,2.15,2.37
+Golden State Warriors,Otto Porter Jr.,8.2,1.27,1.35
+Golden State Warriors,Stephen Curry,25.5,4.45,4.03
+Golden State Warriors,Gary Payton II,7.1,0.61,1.65
+Golden State Warriors,Andre Iguodala,4.0,0.55,0.74
+Golden State Warriors,Moses Moody,4.4,0.77,0.5
+Golden State Warriors,Nemanja Bjelica,6.1,0.76,0.94
+Golden State Warriors,Quinndary Weatherspoon,2.7,0.09,0.36
+Golden State Warriors,Jonathan Kuminga,9.3,0.71,1.7
+Golden State Warriors,Chris Chiozza,2.0,0.5,0.5
+Golden State Warriors,Juan Toscano-Anderson,4.1,0.38,0.63
+Golden State Warriors,Kevon Looney,6.0,0.0,0.76
+LA Clippers,Jay Scrubb,2.7,0.33,0.33
+LA Clippers,Serge Ibaka,6.6,0.69,0.74
+LA Clippers,Justise Winslow,4.2,0.14,0.86
+LA Clippers,Wenyen Gabriel,2.3,0.33,0.0
+LA Clippers,Ivica Zubac,10.3,0.0,1.11
+LA Clippers,Isaiah Hartenstein,8.3,0.21,1.34
+LA Clippers,Robert Covington,10.4,2.13,2.04
+LA Clippers,Brandon Boston Jr.,6.7,0.67,1.1
+LA Clippers,James Ennis III,10.0,1.0,3.5
+LA Clippers,Marcus Morris Sr.,15.4,1.87,1.59
+LA Clippers,Keon Johnson,3.5,0.2,0.33
+LA Clippers,Xavier Moon,5.8,0.5,0.9
+LA Clippers,Reggie Jackson,16.8,2.23,2.05
+LA Clippers,Eric Bledsoe,9.9,0.94,1.65
+LA Clippers,Luke Kennard,11.9,2.71,1.56
+LA Clippers,Terance Mann,10.8,0.94,1.72
+LA Clippers,Nicolas Batum,8.3,1.83,1.39
+LA Clippers,Amir Coffey,9.0,1.39,1.54
+LA Clippers,Jason Preston,0.0,0.0,0.0
+LA Clippers,Kawhi Leonard,0.0,0.0,0.0
+LA Clippers,Rodney Hood,2.6,0.46,0.54
+LA Clippers,Paul George,24.3,2.94,3.39
+LA Clippers,Norman Powell,21.4,2.6,2.6
+LA Clippers,Semi Ojeleye,4.1,0.4,1.2
+LA Clippers,Moses Wright,0.0,0.0,0.0
+Los Angeles Lakers,DeAndre Jordan,4.1,0.0,0.34
+Los Angeles Lakers,LeBron James,30.3,2.88,4.25
+Los Angeles Lakers,Jay Huff,0.0,0.0,0.0
+Los Angeles Lakers,Wenyen Gabriel,6.7,0.32,0.58
+Los Angeles Lakers,Kent Bazemore,3.4,0.74,0.67
+Los Angeles Lakers,Malik Monk,13.8,2.28,2.11
+Los Angeles Lakers,Carmelo Anthony,13.3,2.16,1.88
+Los Angeles Lakers,Wayne Ellington,6.7,1.91,0.88
+Los Angeles Lakers,Jemerrio Jones,2.0,0.0,2.0
+Los Angeles Lakers,Mason Jones,6.8,0.25,0.0
+Los Angeles Lakers,Sekou Doumbouya,7.0,0.5,1.5
+Los Angeles Lakers,Stanley Johnson,6.7,0.69,0.75
+Los Angeles Lakers,Russell Westbrook,18.5,1.01,2.05
+Los Angeles Lakers,Trevor Ariza,4.0,0.83,0.33
+Los Angeles Lakers,Rajon Rondo,3.1,0.44,0.5
+Los Angeles Lakers,D.J. Augustin,5.3,1.38,0.57
+Los Angeles Lakers,Dwight Howard,6.2,0.13,0.73
+Los Angeles Lakers,Talen Horton-Tucker,10.0,0.82,1.72
+Los Angeles Lakers,Avery Bradley,6.4,1.32,1.24
+Los Angeles Lakers,Isaiah Thomas,9.3,1.25,1.0
+Los Angeles Lakers,Austin Reaves,7.3,0.87,1.49
+Los Angeles Lakers,Chaundee Brown Jr.,1.0,0.0,0.0
+Los Angeles Lakers,Kendrick Nunn,0.0,0.0,0.0
+Los Angeles Lakers,Mac McClung,6.0,1.0,0.0
+Los Angeles Lakers,Darren Collison,1.3,0.0,0.67
+Los Angeles Lakers,Anthony Davis,23.2,0.33,3.73
+Sacramento Kings,Josh Jackson,4.3,0.25,0.92
+Sacramento Kings,Justin Holiday,8.3,2.0,1.52
+Sacramento Kings,Justin Robinson,0.7,0.0,0.0
+Sacramento Kings,Domantas Sabonis,18.9,0.27,2.87
+Sacramento Kings,Tyrese Haliburton,14.3,2.04,2.35
+Sacramento Kings,Robert Woodard II,0.6,0.08,0.0
+Sacramento Kings,Alex Len,6.0,0.15,0.67
+Sacramento Kings,Tristan Thompson,6.2,0.03,0.5
+Sacramento Kings,Davion Mitchell,11.5,1.35,1.87
+Sacramento Kings,Louis King,4.5,0.8,0.7
+Sacramento Kings,Damian Jones,8.1,0.18,0.8
+Sacramento Kings,Terence Davis,10.4,1.63,1.8
+Sacramento Kings,Trey Lyles,10.6,0.96,1.29
+Sacramento Kings,Chimezie Metu,8.9,0.95,1.47
+Sacramento Kings,Buddy Hield,14.4,3.31,3.04
+Sacramento Kings,Neemias Queta,3.0,0.0,0.6
+Sacramento Kings,Jeremy Lamb,7.9,0.94,1.65
+Sacramento Kings,Emmanuel Mudiay,1.5,0.0,0.0
+Sacramento Kings,Donte DiVincenzo,10.3,2.12,1.68
+Sacramento Kings,Ade Murkey,0.0,0.0,0.0
+Sacramento Kings,Harrison Barnes,16.4,1.84,2.42
+Sacramento Kings,De'Aaron Fox,23.2,1.25,2.63
+Sacramento Kings,Jahmi'us Ramsey,3.2,0.26,0.63
+Sacramento Kings,Maurice Harkless,4.6,0.66,0.57
+Sacramento Kings,Marvin Bagley III,9.3,0.5,1.03
+Sacramento Kings,Richaun Holmes,10.4,0.04,1.27
+Memphis Grizzlies,Jon Teske,0.0,0.0,0.0
+Memphis Grizzlies,Killian Tillie,3.3,0.75,0.47
+Memphis Grizzlies,Ziaire Williams,8.1,1.23,1.48
+Memphis Grizzlies,Santi Aldama,4.1,0.19,0.41
+Memphis Grizzlies,Xavier Sneed,0.0,0.0,0.0
+Memphis Grizzlies,Kyle Anderson,7.6,0.52,1.49
+Memphis Grizzlies,DaQuan Jeffries,0.7,0.0,0.0
+Memphis Grizzlies,Jaren Jackson Jr.,16.3,1.64,2.45
+Memphis Grizzlies,Dakota Mathias,1.0,0.33,0.0
+Memphis Grizzlies,Yves Pons,1.1,0.25,0.0
+Memphis Grizzlies,Jarrett Culver,3.5,0.32,0.92
+Memphis Grizzlies,Desmond Bane,18.2,3.0,2.7
+Memphis Grizzlies,De'Anthony Melton,10.8,1.9,1.92
+Memphis Grizzlies,Tyrell Terry,1.0,0.0,0.0
+Memphis Grizzlies,Sam Merrill,4.2,1.17,1.0
+Memphis Grizzlies,Dillon Brooks,18.4,1.44,3.19
+Memphis Grizzlies,Shaquille Harrison,0.0,0.0,0.0
+Memphis Grizzlies,John Konchar,4.8,0.72,0.83
+Memphis Grizzlies,Ja Morant,27.4,1.54,3.95
+Memphis Grizzlies,Steven Adams,6.9,0.0,0.72
+Memphis Grizzlies,Shaq Buchanan,1.0,0.0,1.0
+Memphis Grizzlies,Brandon Clarke,10.4,0.08,1.78
+Memphis Grizzlies,Tyus Jones,8.7,1.1,1.29
+Memphis Grizzlies,Xavier Tillman,4.8,0.19,0.92
+Dallas Mavericks,Willie Cauley-Stein,1.9,0.06,0.44
+Dallas Mavericks,Boban Marjanovic,4.3,0.04,0.39
+Dallas Mavericks,Sterling Brown,3.3,0.57,0.61
+Dallas Mavericks,Moses Brown,3.1,0.0,0.58
+Dallas Mavericks,Tim Hardaway Jr.,14.2,2.43,1.38
+Dallas Mavericks,Frank Ntilikina,4.1,0.66,0.71
+Dallas Mavericks,Kristaps Porzingis,19.2,1.44,2.18
+Dallas Mavericks,Maxi Kleber,7.0,1.41,0.85
+Dallas Mavericks,Dorian Finney-Smith,11.0,2.15,1.53
+Dallas Mavericks,Reggie Bullock,8.6,2.07,1.5
+Dallas Mavericks,Trey Burke,5.1,0.62,0.86
+Dallas Mavericks,Marquese Chriss,4.5,0.24,0.82
+Dallas Mavericks,Carlik Jones,0.7,0.0,0.0
+Dallas Mavericks,Eugene Omoruyi,1.8,0.25,0.5
+Dallas Mavericks,Spencer Dinwiddie,15.8,1.83,3.09
+Dallas Mavericks,Jalen Brunson,16.3,1.19,2.13
+Dallas Mavericks,Theo Pinson,2.5,0.53,0.47
+Dallas Mavericks,Dwight Powell,8.7,0.16,1.21
+Dallas Mavericks,George King,0.3,0.0,0.0
+Dallas Mavericks,Isaiah Thomas,6.0,0.0,0.0
+Dallas Mavericks,Josh Green,4.8,0.42,0.84
+Dallas Mavericks,Davis Bertans,5.3,1.41,0.77
+Dallas Mavericks,Charlie Brown Jr.,0.7,0.0,0.67
+Dallas Mavericks,Luka Doncic,28.4,3.09,3.18
+Dallas Mavericks,Moses Wright,1.7,0.0,1.0
+Dallas Mavericks,Brandon Knight,6.4,0.8,1.4
+Dallas Mavericks,JaQuori McLaughlin,0.0,0.0,0.0
+New Orleans Pelicans,Alize Johnson,2.3,0.0,0.0
+New Orleans Pelicans,Tony Snell,5.9,1.4,1.13
+New Orleans Pelicans,Wenyen Gabriel,0.0,0.0,0.0
+New Orleans Pelicans,Gary Clark,2.7,0.74,0.11
+New Orleans Pelicans,Anthony Tolliver,0.0,0.0,0.0
+New Orleans Pelicans,Trey Murphy III,5.4,1.15,0.98
+New Orleans Pelicans,Jaxson Hayes,9.3,0.29,1.56
+New Orleans Pelicans,Daulton Hommes,0.0,0.0,0.0
+New Orleans Pelicans,Zion Williamson,0.0,0.0,0.0
+New Orleans Pelicans,Willy Hernangomez,9.1,0.08,1.4
+New Orleans Pelicans,Devonte' Graham,11.9,2.53,1.66
+New Orleans Pelicans,Herbert Jones,9.5,0.73,2.26
+New Orleans Pelicans,Kira Lewis Jr.,5.9,0.54,1.04
+New Orleans Pelicans,Didi Louzada,0.0,0.0,0.0
+New Orleans Pelicans,Brandon Ingram,22.7,1.35,3.02
+New Orleans Pelicans,Jose Alvarado,6.1,0.59,0.98
+New Orleans Pelicans,Justin James,0.0,0.0,0.0
+New Orleans Pelicans,Feron Hunt,0.0,0.0,0.0
+New Orleans Pelicans,Naji Marshall,5.7,0.38,1.07
+New Orleans Pelicans,Tomas Satoransky,2.8,0.16,0.5
+New Orleans Pelicans,Jared Harper,7.4,1.0,1.6
+New Orleans Pelicans,Larry Nance Jr.,7.3,0.44,2.11
+New Orleans Pelicans,CJ McCollum,24.3,2.73,2.81
+New Orleans Pelicans,Jonas Valanciunas,17.8,0.77,1.89
+New Orleans Pelicans,Nickeil Alexander-Walker,12.8,1.9,2.14
+New Orleans Pelicans,Josh Hart,13.4,1.02,1.85
+New Orleans Pelicans,Tyrone Wallace,2.8,0.33,0.67
+New Orleans Pelicans,Garrett Temple,5.2,1.0,0.92
+New Orleans Pelicans,Miye Oni,0.0,0.0,0.0
+New Orleans Pelicans,Zylan Cheatham,0.0,0.0,0.0
+San Antonio Spurs,Jock Landale,4.9,0.54,0.5
+San Antonio Spurs,Drew Eubanks,4.7,0.02,0.39
+San Antonio Spurs,Keldon Johnson,17.0,2.12,2.68
+San Antonio Spurs,Tre Jones,6.0,0.14,1.1
+San Antonio Spurs,Robert Woodard II,0.0,0.0,0.0
+San Antonio Spurs,Thaddeus Young,6.1,0.0,0.23
+San Antonio Spurs,Jaylen Morris,0.7,0.0,0.0
+San Antonio Spurs,Anthony Lamb,0.0,0.0,0.0
+San Antonio Spurs,D.J. Stewart Jr.,0.0,0.0,0.0
+San Antonio Spurs,Doug McDermott,11.3,2.12,1.16
+San Antonio Spurs,Dejounte Murray,21.1,1.41,3.16
+San Antonio Spurs,Tyler Johnson,2.0,0.67,0.0
+San Antonio Spurs,Derrick White,14.4,1.65,1.92
+San Antonio Spurs,Tomas Satoransky,3.0,0.0,1.0
+San Antonio Spurs,Keita Bates-Diop,5.7,0.29,0.85
+San Antonio Spurs,Zach Collins,7.8,0.5,1.07
+San Antonio Spurs,Joshua Primo,5.8,0.84,0.84
+San Antonio Spurs,Juancho Hernangomez,1.4,0.0,0.4
+San Antonio Spurs,Devontae Cacok,3.1,0.0,0.93
+San Antonio Spurs,Bryn Forbes,9.1,1.58,1.4
+San Antonio Spurs,Romeo Langford,2.8,0.0,1.0
+San Antonio Spurs,Joe Wieskamp,2.1,0.48,0.31
+San Antonio Spurs,Lonnie Walker IV,12.1,1.59,2.03
+San Antonio Spurs,Jakob Poeltl,13.5,0.01,1.76
+San Antonio Spurs,Josh Richardson,11.4,1.9,2.0
+San Antonio Spurs,Devin Vassell,12.3,1.93,2.03
+San Antonio Spurs,Goran Dragic,0.0,0.0,0.0
+Houston Rockets,Danuel House Jr.,4.8,0.63,1.19
+Houston Rockets,Jae'Sean Tate,11.8,0.81,1.41
+Houston Rockets,DeJon Jarreau,0.0,0.0,0.0
+Houston Rockets,Bruno Fernando,6.9,0.0,0.4
+Houston Rockets,Usman Garuba,2.0,0.21,0.21
+Houston Rockets,Alperen Sengun,9.6,0.4,1.35
+Houston Rockets,KJ Martin Jr.,8.8,0.76,1.47
+Houston Rockets,Anthony Lamb,0.0,0.0,0.0
+Houston Rockets,John Wall,0.0,0.0,0.0
+Houston Rockets,Daishen Nix,3.2,0.29,0.33
+Houston Rockets,Josh Christopher,7.9,0.76,1.91
+Houston Rockets,Trevelin Queen,4.3,0.9,1.2
+Houston Rockets,Christian Wood,17.9,1.93,2.26
+Houston Rockets,Garrison Mathews,10.0,2.14,1.31
+Houston Rockets,Jalen Green,17.3,2.34,2.67
+Houston Rockets,D.J. Augustin,5.4,1.15,0.91
+Houston Rockets,Dennis Schroder,10.9,1.27,1.73
+Houston Rockets,Kevin Porter Jr.,15.6,2.54,2.25
+Houston Rockets,Daniel Theis,8.4,0.88,0.92
+Houston Rockets,Armoni Brooks,6.2,1.56,1.05
+Houston Rockets,Eric Gordon,13.4,2.18,1.49
+Houston Rockets,David Nwaba,5.1,0.33,1.0
